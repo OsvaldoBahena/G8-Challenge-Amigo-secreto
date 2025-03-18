@@ -1,6 +1,7 @@
 <h1> Challenge Amigo Secreto </h1>
 <h3> Especificaciones </h3> 
 - Requiere instalación: No.
+
 - Requiere instalar algo: No.
 
 Para ejecutar el programa debes abrirlo con cualquier navegador web.
